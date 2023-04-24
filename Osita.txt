@@ -10,7 +10,7 @@ http://masterplus.live:8080/Damoin57/Damoin57/69382
 #EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Paraumont plus"  group-title="Investigación", Paramount plus
 http://masterplus.live:8080/Damoin57/Damoin57/38290
 
-#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Golden premiere"  group-title="Investigación", Golden premiere
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Golden premiere"  group-title="Investigación", Edge
 http://masterplus.live:8080/Damoin57/Damoin57/93514
 
 #EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Fx hd"  group-title="Investigación",Fx Hd
