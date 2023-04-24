@@ -46,3 +46,7 @@ http://masterplus.live:8080/Damoin57/Damoin57/93536
 #EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Universal Premiere"  group-title="Cine", Universal Premiere
 http://masterplus.live:8080/Damoin57/Damoin57/93534
 
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Golden premiere"  group-title="Investigación",Golden Premiere 
+http://masterplus.live:8080/Damoin57/Damoin57/93518
+
+
