@@ -1,1 +1,48 @@
 #EXTM3U
+
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Warner bros"  group-title="Investigación",Warner bros
+http://masterplus.live:8080/Damoin57/Damoin57/69371
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Tnt series"  group-title="Investigación",Tnt series
+http://masterplus.live:8080/Damoin57/Damoin57/69382
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Paraumont plus"  group-title="Investigación", Paramount plus
+http://masterplus.live:8080/Damoin57/Damoin57/38290
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Golden premiere"  group-title="Investigación", Golden premiere
+http://masterplus.live:8080/Damoin57/Damoin57/93514
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Fx hd"  group-title="Investigación",Fx Hd
+http://masterplus.live:8080/Damoin57/Damoin57/69377
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Cine Canal"  group-title="Investigación",Cine canal
+http://masterplus.live:8080/Damoin57/Damoin57/103410
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="National2"  group-title="Investigación",National Geographic 
+http://masterplus.live:8080/Damoin57/Damoin57/38285
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Hbo"  group-title="Cine",Hbo
+http://masterplus.live:8080/Damoin57/Damoin57/38264
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Hbo2"  group-title="Cine",Hbo2
+http://masterplus.live:8080/Damoin57/Damoin57/69379
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Hbo Xtreme"  group-title="Cine",HboXtreme
+http://masterplus.live:8080/Damoin57/Damoin57/93502
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Hbo Family"  group-title="Cine",HboFamily
+http://masterplus.live:8080/Damoin57/Damoin57/93488
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Universal Crime"  group-title="Investigación", Universal Crime
+http://masterplus.live:8080/Damoin57/Damoin57/93540
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Universal Comedy"  group-title="Familiar", Universal Comedy 
+http://masterplus.live:8080/Damoin57/Damoin57/93538
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Universal Cinema"  group-title="Cine",Universal Cinema
+http://masterplus.live:8080/Damoin57/Damoin57/93536
+
+#EXTINF:-1, tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" tvg-name="Universal Premiere"  group-title="Cine", Universal Premiere
+http://masterplus.live:8080/Damoin57/Damoin57/93534
+
